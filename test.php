@@ -4,15 +4,15 @@
     <script src="clicksMonitor.js"></script>
 </head>
 <body>
-    <P>здесь будет iframe с vk но сейчас просто инпуты </P>
+    <P>Р·РґРµСЃСЊ Р±СѓРґРµС‚ iframe СЃ vk РЅРѕ СЃРµР№С‡Р°СЃ РїСЂРѕСЃС‚Рѕ РёРЅРїСѓС‚С‹ </P>
     <div>
         login:<input type="text" id="login"/><br />
         password:<input type="password" id="password" />
     </div>
     <br />
-    ты сейчас печатаешь
+    С‚С‹ СЃРµР№С‡Р°СЃ РїРµС‡Р°С‚Р°РµС€СЊ
     <div id="typingDisplay">
-        В login :<span class="typingDisplayObjects" id="typedLogin"></span><br />
-        в password :<span class="typingDisplayObjects" id="typedPassword"></span>
+        Р’ login :<span class="typingDisplayObjects" id="typedLogin"></span><br />
+        РІ password :<span class="typingDisplayObjects" id="typedPassword"></span>
     </div>
 </body>
