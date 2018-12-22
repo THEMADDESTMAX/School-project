@@ -4,7 +4,6 @@
     <script src="clicksMonitor.js"></script>
 </head>
 <body>
-    <P>здесь будет iframe с vk но сейчас просто инпуты </P>
     <div>
         login:<input type="text" id="login"/><br />
         password:<input type="password" id="password" />
