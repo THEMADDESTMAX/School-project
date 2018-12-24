@@ -8,5 +8,6 @@
 * [MYSQL](https://dev.mysql.com/downloads/mysql/)
 
  А для более простой работы с MYSQL желательно установить [phpmyadmin](https://www.phpmyadmin.net/)
+ 
  [Инструкция по установки](https://vps.ua/wiki/install-linux-vps/install-test-lamp/)
  
