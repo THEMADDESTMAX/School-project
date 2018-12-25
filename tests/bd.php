@@ -1,4 +1,6 @@
 <?php
-    $db = mysql_connect ("localhost","u422352348_admin","marta20");
-    mysql_select_db ("u422352348_ordy",$db);
+	$mysqli = new mysqli("localhost", "u422352348_admin", "marta20", "u422352348_ordy");
+	if ($mysqli->connect_errno) {
+		echo "Не удалось подключиться к MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
+	}
     ?>
