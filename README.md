@@ -6,6 +6,7 @@
 * [Apache 2.4](https://httpd.apache.org/download.cgi)
 * [PHP 7.3.*](http://php.net/downloads.php)
 * [MYSQL](https://dev.mysql.com/downloads/mysql/)
+* node js
 
  А для более простой работы с MYSQL желательно установить [phpmyadmin](https://www.phpmyadmin.net/)
  
